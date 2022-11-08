@@ -1,7 +1,7 @@
 <!-- &nbsp;🏡 &nbsp;[Homepage](https://andreped.github.io/)&nbsp;|
 &nbsp;:bulb:&nbsp;[Youtube](https://www.youtube.com/channel/UC4GM2KW54-vEZ0M1kH5-oig)&nbsp;|
 &nbsp;:link:&nbsp;[Google Scholar](https://scholar.google.com/citations?user=U20zUHQAAAAJ&hl=no&oi=sra)&nbsp;| -->
-&nbsp;:computer:&nbsp;[LinkedIn](https://www.linkedin.com/in/intrid-tveten/)&nbsp;|
+&nbsp;:computer:&nbsp;[LinkedIn](https://www.linkedin.com/in/ingrid-tveten/)&nbsp;|
 &nbsp;🧙‍&nbsp;[ResearchGate](https://www.researchgate.net/profile/Ingrid-Elisabeth-Tveten)&nbsp;
 
 
