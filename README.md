@@ -3,7 +3,7 @@
 &nbsp;:link:&nbsp;[Google Scholar](https://scholar.google.com/citations?user=U20zUHQAAAAJ&hl=no&oi=sra)&nbsp;| -->
 Find me | &nbsp;:computer:&nbsp;[LinkedIn](https://www.linkedin.com/in/ingrid-tveten/)&nbsp;|
 &nbsp;🧙‍&nbsp;[ResearchGate](https://www.researchgate.net/profile/Ingrid-Elisabeth-Tveten)&nbsp;|
-&nbsp;💼&nbsp;[SINTEF](https://www.sintef.no/en/all-employees/employee/ingrid.tveten/)&nbsp;
+&nbsp;💼&nbsp;[Work](https://www.sintef.no/en/all-employees/employee/ingrid.tveten/)&nbsp;
 
 
 - 👋 Hi, I'm Ingrid (she/her)!
