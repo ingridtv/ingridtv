@@ -7,10 +7,10 @@ Find me | &nbsp;:computer:&nbsp;[LinkedIn](https://www.linkedin.com/in/ingrid-tv
 
 
 - 👋 Hi, I'm Ingrid (she/her)!
-- 🌱 I'm a researcher at [SINTEF](https://www.sintef.no/en/), where I work with medical image analysis and software
+- 🌱 I'm a researcher at [SINTEF](https://www.sintef.no/en/), where I work with medical image analysis, machine learning and software development
 - 🎓 PhD candidate in medical technology, working with automatic measurements of cardiac function from ultrasound (echocardiography) using machine learning
 - 👯 Always looking to collaborate on medical image analysis projects with clinical applications
-- 💬 Ask me about: AI and computer science in radiotherapy
+- 💬 Let's chat about: AI and computer science in radiotherapy
 <!-- - ⚡ Fun fact: I got a job where I would be using machine learning without ever having trained a neural network
 - 🌱 I'm currently learning ...
 - 🤔 I’m looking for help with ...
